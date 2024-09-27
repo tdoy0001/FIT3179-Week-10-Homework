@@ -77,9 +77,9 @@
         },
         "tooltip": [
           { "field": "properties.GI_NAME", "type": "nominal", "title": "Region" },
-          { "field": "Yield", "type": "quantitative", "title": "Yield (tonnes per hectare)" },
-          { "field": "Production", "type": "quantitative", "title": "Production (tonnes)" },
-          { "field": "Area", "type": "quantitative", "title": "Area (hectares)" }
+          { "field": "Yield", "type": "quantitative", "title": "Yield (t/ha)" },
+          { "field": "Production", "type": "quantitative", "title": "Production (t)" },
+          { "field": "Area", "type": "quantitative", "title": "Area (ha)" }
         ]
       }
     }

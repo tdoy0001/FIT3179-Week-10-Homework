@@ -1,0 +1,108 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Price vs production over time",
+  "width": 300,
+  "height": 300,
+  "params": [
+    {
+      "name": "Year_Selection",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 2001,
+        "max": 2023,
+        "step": 1,
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "Colour_Selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "White",
+          "Red"
+        ],
+        "labels": [
+          "Show All",
+          "White",
+          "Red"
+        ],
+        "name": "Colour Selection: "
+      }
+    }
+  ],
+  "data": {
+      "url": "Variety-Year-Production-rPrice.csv"
+    },
+    "transform": [
+      {"filter": "datum.Year == Year_Selection"},
+      {"filter": "Colour_Selection == null || datum.Colour == Colour_Selection"}
+    ],
+    "encoding": {
+      "x": {
+        "field": "Production",
+        "type": "quantitative",
+        "title": "Production (tonnes)",
+        "scale": {"domain": [0, 500000]}
+      },
+      "y": {
+        "field": "rPrice",
+        "type": "quantitative",
+        "title": "Adjusted Price (AUD per tonne)",
+        "scale": {"domain": [0, 3500]}
+      }
+    },
+  "layer": [
+    {
+      
+        "mark": {"type": "circle", "size": 100},
+        "encoding": {
+        "color": {
+          "field": "Colour",
+          "type": "nominal",
+          "scale": {
+            "domain": ["White", "Red"],
+            "range": ["#F4E04D", "#8B0000"]
+          }
+        },
+        "tooltip": [
+          {"field": "Variety", "type": "nominal"},
+          {"field": "Colour", "type": "nominal"},
+          {"field": "rPrice", "type": "quantitative", "format": "$.0f", "title": "Price"},
+          {"field": "Production", "type": "quantitative", "format": ".0f"},
+          {"field": "Year", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 12,
+        "fontSize": 10,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Variety", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Variety'] == 'Shiraz' || datum['Variety'] == 'Chardonnay' || datum['Variety'] == 'Cabernet Sauvignon' || datum['Variety'] == 'Merlot' || datum['Variety'] == 'Pinot Gris' || datum['Variety'] == 'Semillon' || datum['Variety'] == 'Prosecco' || datum['Variety'] == 'Pinot Meunier' || datum['Variety'] == 'Pinot Noir'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Variety", "type": "nominal"},
+          {"field": "Colour", "type": "nominal"},
+          {"field": "rPrice", "type": "quantitative", "format": "$.0f", "title": "Price"},
+          {"field": "Production", "type": "quantitative", "format": ".0f"},
+          {"field": "Year", "type": "quantitative"}
+        ]
+      }
+    }        
+  ]
+}

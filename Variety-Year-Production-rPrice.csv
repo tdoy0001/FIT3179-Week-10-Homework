@@ -1,0 +1,990 @@
+Variety,Year,Production,rPrice,Colour,Country
+Barbera,2001,663.2000008,881.8482666,Red,Italy
+Barbera,2002,747.0299931,1209.118164,Red,Italy
+Barbera,2003,784.0000092,1041.076172,Red,Italy
+Barbera,2004,1007.6222,717.4592285,Red,Italy
+Barbera,2005,1055.000008,970.2692871,Red,Italy
+Barbera,2006,815.9000174,791.8638916,Red,Italy
+Barbera,2007,466.852123,1066.455322,Red,Italy
+Barbera,2008,1019.510009,1152.897705,Red,Italy
+Barbera,2009,84.69999981,595.8212891,Red,Italy
+Barbera,2010,744.3000079,1734.372314,Red,Italy
+Barbera,2011,120.4049997,427.766449,Red,Italy
+Barbera,2012,485.2800056,1021.110107,Red,Italy
+Barbera,2013,6.829999924,,Red,Italy
+Barbera,2014,6.049999952,,Red,Italy
+Barbera,2015,636.8899919,1227.739136,Red,Italy
+Barbera,2016,374.4959977,1936.557129,Red,Italy
+Barbera,2017,446.3859886,2392.589844,Red,Italy
+Barbera,2018,384.519006,2476.407959,Red,Italy
+Barbera,2019,552.0769946,,Red,Italy
+Barbera,2020,516.931003,,Red,Italy
+Barbera,2021,499.4529971,1667.824707,Red,Italy
+Barbera,2022,373.385996,1229.899414,Red,Italy
+Barbera,2023,174.216,2646.459717,Red,Italy
+Cabernet Franc,2001,5669.999993,2214.466064,Red,France
+Cabernet Franc,2002,5288.210032,1700.427124,Red,France
+Cabernet Franc,2003,4493.300019,1601.736084,Red,France
+Cabernet Franc,2004,5563.003171,1285.657837,Red,France
+Cabernet Franc,2005,4198.799975,1422.429932,Red,France
+Cabernet Franc,2006,3845.500003,1150.787354,Red,France
+Cabernet Franc,2007,2425.96409,1199.463867,Red,France
+Cabernet Franc,2008,3335.440011,1376.444214,Red,France
+Cabernet Franc,2009,1905.373849,1071.076294,Red,France
+Cabernet Franc,2010,2182.200003,1182.353271,Red,France
+Cabernet Franc,2011,1047.698193,1009.961365,Red,France
+Cabernet Franc,2012,2003.829991,995.7759399,Red,France
+Cabernet Franc,2013,987.1504679,1122.168457,Red,France
+Cabernet Franc,2014,793.0222516,1024.163452,Red,France
+Cabernet Franc,2015,1167.299994,1390.900635,Red,France
+Cabernet Franc,2016,893.1470036,1323.987183,Red,France
+Cabernet Franc,2017,1148.933006,1636.866455,Red,France
+Cabernet Franc,2018,855.9410031,1730.102173,Red,France
+Cabernet Franc,2019,1056.396,1820.998901,Red,France
+Cabernet Franc,2020,450.9459975,1993.653809,Red,France
+Cabernet Franc,2021,1038.858001,1953.097778,Red,France
+Cabernet Franc,2022,959.9149951,1345.070557,Red,France
+Cabernet Franc,2023,567.726,1655.884277,Red,France
+Cabernet Sauvignon,2001,247695.9991,2203.99585,Red,France
+Cabernet Sauvignon,2002,264041.6782,1829.599243,Red,France
+Cabernet Sauvignon,2003,235993.1995,1646.720215,Red,France
+Cabernet Sauvignon,2004,327976.254,1345.370239,Red,France
+Cabernet Sauvignon,2005,291087.797,1092.660767,Red,France
+Cabernet Sauvignon,2006,279097.1979,985.5339355,Red,France
+Cabernet Sauvignon,2007,181051.2437,1091.957275,Red,France
+Cabernet Sauvignon,2008,255096.9096,1332.421143,Red,France
+Cabernet Sauvignon,2009,229301.4111,999.4534912,Red,France
+Cabernet Sauvignon,2010,206080.3991,875.4353027,Red,France
+Cabernet Sauvignon,2011,195579.2907,738.0633545,Red,France
+Cabernet Sauvignon,2012,196188.1693,865.1901855,Red,France
+Cabernet Sauvignon,2013,207693.3627,925.5828857,Red,France
+Cabernet Sauvignon,2014,202832.1715,785.824585,Red,France
+Cabernet Sauvignon,2015,196489.3895,807.5316772,Red,France
+Cabernet Sauvignon,2016,224117.6814,914.4819336,Red,France
+Cabernet Sauvignon,2017,253313.4349,937.4507446,Red,France
+Cabernet Sauvignon,2018,211405.528,994.8376465,Red,France
+Cabernet Sauvignon,2019,228119.3964,1072.22876,Red,France
+Cabernet Sauvignon,2020,202623.9193,1101.180664,Red,France
+Cabernet Sauvignon,2021,275125.1017,995.5543213,Red,France
+Cabernet Sauvignon,2022,223523.1044,827.6635132,Red,France
+Cabernet Sauvignon,2023,137123.078,807.5343018,Red,France
+Canada Muscat,2001,411.0999966,926.029541,White,United States
+Canada Muscat,2002,555.9400059,860.4973755,White,United States
+Canada Muscat,2003,287.0999996,722.9325562,White,United States
+Canada Muscat,2004,107,696.6997681,White,United States
+Canada Muscat,2005,209,602.1356201,White,United States
+Canada Muscat,2006,0,0,White,United States
+Canada Muscat,2007,0,0,White,United States
+Canada Muscat,2008,59,656.8231201,White,United States
+Canada Muscat,2009,923.8627319,530.852478,White,United States
+Canada Muscat,2010,83,778.7536621,White,United States
+Canada Muscat,2011,3453.368408,696.8762207,White,United States
+Canada Muscat,2012,36,732.4203491,White,United States
+Canada Muscat,2013,5608.423096,582.0579224,White,United States
+Canada Muscat,2014,6867.235596,546.6417236,White,United States
+Canada Muscat,2015,5542.070129,,White,United States
+Canada Muscat,2016,5862.396912,,White,United States
+Canada Muscat,2017,4185.790986,,White,United States
+Canada Muscat,2018,3726.360019,,White,United States
+Canada Muscat,2019,3493.07996,,White,United States
+Canada Muscat,2020,3066.200119,,White,United States
+Canada Muscat,2021,3005.430069,,White,United States
+Canada Muscat,2022,0,0,White,United States
+Canada Muscat,2023,2820.56,422.8380127,White,United States
+Chardonnay,2001,246827.7991,1680.421387,White,France
+Chardonnay,2002,257747.7294,1639.203491,White,France
+Chardonnay,2003,239663.1011,1801.209595,White,France
+Chardonnay,2004,319963.9392,1752.567505,White,France
+Chardonnay,2005,390784.5989,1344.980957,White,France
+Chardonnay,2006,401339.0986,866.9869995,White,France
+Chardonnay,2007,365576.5409,824.3344727,White,France
+Chardonnay,2008,436841.6102,983.5318604,White,France
+Chardonnay,2009,368950.9459,627.5009766,White,France
+Chardonnay,2010,298634.7991,524.1600952,White,France
+Chardonnay,2011,351027.2378,447.5775757,White,France
+Chardonnay,2012,339470.5618,518.5250854,White,France
+Chardonnay,2013,351994.2937,530.4684448,White,France
+Chardonnay,2014,326383.4315,422.0688171,White,France
+Chardonnay,2015,347863.12,432.7372742,White,France
+Chardonnay,2016,358940.5958,506.9447021,White,France
+Chardonnay,2017,317253.0799,531.6447754,White,France
+Chardonnay,2018,346838.1489,548.2762451,White,France
+Chardonnay,2019,319112.0313,596.6841431,White,France
+Chardonnay,2020,258053.0799,590.7655029,White,France
+Chardonnay,2021,343454.8562,635.1516724,White,France
+Chardonnay,2022,324429.7841,599.5882568,White,France
+Chardonnay,2023,230225.623,598.7002563,White,France
+Chenin Blanc,2001,13954.99999,1052.119385,White,France
+Chenin Blanc,2002,14163.34997,792.4321899,White,France
+Chenin Blanc,2003,10510.10005,767.5795288,White,France
+Chenin Blanc,2004,13645.81427,624.1536255,White,France
+Chenin Blanc,2005,12214.3999,817.4231567,White,France
+Chenin Blanc,2006,11660.29996,788.6741943,White,France
+Chenin Blanc,2007,8219.826328,803.9008789,White,France
+Chenin Blanc,2008,9103.779948,903.9571533,White,France
+Chenin Blanc,2009,10041.39652,986.6946411,White,France
+Chenin Blanc,2010,6837.700074,733.1771851,White,France
+Chenin Blanc,2011,5136.337135,679.9720459,White,France
+Chenin Blanc,2012,6637.110022,619.5655518,White,France
+Chenin Blanc,2013,5551.939637,735.9956055,White,France
+Chenin Blanc,2014,5106.584552,671.3557739,White,France
+Chenin Blanc,2015,9077.94291,546.7407837,White,France
+Chenin Blanc,2016,4851.990986,510.3867188,White,France
+Chenin Blanc,2017,4405.711034,501.6884766,White,France
+Chenin Blanc,2018,4544.504004,491.0915833,White,France
+Chenin Blanc,2019,4652.609082,646.7957153,White,France
+Chenin Blanc,2020,4003.697962,529.9769287,White,France
+Chenin Blanc,2021,4615.247994,678.8515015,White,France
+Chenin Blanc,2022,3952.599967,673.2322998,White,France
+Chenin Blanc,2023,3252.625,742.55896,White,France
+Cienna,2001,0,0,Red,Australia
+Cienna,2002,0,0,Red,Australia
+Cienna,2003,0,0,Red,Australia
+Cienna,2004,0,0,Red,Australia
+Cienna,2005,0,0,Red,Australia
+Cienna,2006,0,0,Red,Australia
+Cienna,2007,0,0,Red,Australia
+Cienna,2008,0,0,Red,Australia
+Cienna,2009,0,0,Red,Australia
+Cienna,2010,0,0,Red,Australia
+Cienna,2011,541.7170868,802.6340942,Red,Australia
+Cienna,2012,0,0,Red,Australia
+Cienna,2013,545.1002655,954.1126099,Red,Australia
+Cienna,2014,185.7118378,916.0785522,Red,Australia
+Cienna,2015,744.1400146,,Red,Australia
+Cienna,2016,1491.010034,,Red,Australia
+Cienna,2017,1227.880005,,Red,Australia
+Cienna,2018,1662.950043,,Red,Australia
+Cienna,2019,2032.440063,,Red,Australia
+Cienna,2020,2161.870117,,Red,Australia
+Cienna,2021,1903.040039,,Red,Australia
+Cienna,2022,0,0,Red,Australia
+Cienna,2023,1353.021,,Red,Australia
+Colombard,2001,39828.79981,670.1653442,White,France
+Colombard,2002,61422.06905,682.4961548,White,France
+Colombard,2003,56272.69942,631.0408936,White,France
+Colombard,2004,71094.18947,592.6552124,White,France
+Colombard,2005,79489.60019,553.5906982,White,France
+Colombard,2006,76391.69922,451.9966431,White,France
+Colombard,2007,56287.59148,456.2377014,White,France
+Colombard,2008,60373.9898,615.0158081,White,France
+Colombard,2009,60944.45212,398.5157471,White,France
+Colombard,2010,47033.69951,282.2195435,White,France
+Colombard,2011,57107.3252,265.2348938,White,France
+Colombard,2012,56891.14934,297.3968506,White,France
+Colombard,2013,63390.96802,293.2866821,White,France
+Colombard,2014,52044.57975,245.9773254,White,France
+Colombard,2015,57735.34799,243.8324127,White,France
+Colombard,2016,47137.68786,254.5054626,White,France
+Colombard,2017,55733.28743,280.2432556,White,France
+Colombard,2018,48023.27091,296.6475525,White,France
+Colombard,2019,45395.41797,323.2401733,White,France
+Colombard,2020,42813.1827,364.7709045,White,France
+Colombard,2021,48377.74931,364.7539368,White,France
+Colombard,2022,43833.18794,350.5918579,White,France
+Colombard,2023,35630.106,295.0983887,White,France
+Crouchen,2001,1545.100025,810.1861572,White,France
+Crouchen,2002,1922.429951,819.9483032,White,France
+Crouchen,2003,1248.000025,789.4720459,White,France
+Crouchen,2004,2359.992519,474.419342,White,France
+Crouchen,2005,2180.100024,762.6154175,White,France
+Crouchen,2006,1719.100024,773.0245361,White,France
+Crouchen,2007,1932.170253,762.2576904,White,France
+Crouchen,2008,2689.400095,729.6122437,White,France
+Crouchen,2009,166.0826225,443.2796326,White,France
+Crouchen,2010,2324.8,329.3653564,White,France
+Crouchen,2011,497.0177002,479.7400208,White,France
+Crouchen,2012,134,319.601593,White,France
+Crouchen,2013,1175.689117,478.8364868,White,France
+Crouchen,2014,442.3376465,398.6828918,White,France
+Crouchen,2015,1628.889038,,White,France
+Crouchen,2016,1203.769958,,White,France
+Crouchen,2017,785.3999939,,White,France
+Crouchen,2018,845.1199799,,White,France
+Crouchen,2019,616.8399963,,White,France
+Crouchen,2020,755.8900146,,White,France
+Crouchen,2021,473.6799927,,White,France
+Crouchen,2022,0,0,White,France
+Crouchen,2023,458.55,,White,France
+Cot,2001,3810.100017,1794.600952,Red,France
+Cot,2002,2925.440002,1642.259277,Red,France
+Cot,2003,3518.199998,1563.166748,Red,France
+Cot,2004,3503.541321,1204.592285,Red,France
+Cot,2005,3400.199988,1380.862427,Red,France
+Cot,2006,3181.899998,1059.357422,Red,France
+Cot,2007,1817.214165,1410.701294,Red,France
+Cot,2008,2627.849988,1474.957031,Red,France
+Cot,2009,1113.497896,1173.349976,Red,France
+Cot,2010,2274.800002,1006.539856,Red,France
+Cot,2011,1438.157772,920.0578613,Red,France
+Cot,2012,2536.529996,919.6339722,Red,France
+Cot,2013,1789.137722,995.972229,Red,France
+Cot,2014,1843.121071,1035.16748,Red,France
+Cot,2015,2931.539,1175.76355,Red,France
+Cot,2016,5071.372021,1250.481689,Red,France
+Cot,2017,5756.778995,1383.664185,Red,France
+Cot,2018,3583.45201,1593.766846,Red,France
+Cot,2019,5458.088968,1603.63147,Red,France
+Cot,2020,3341.64602,1969.766724,Red,France
+Cot,2021,5827.231032,1449.110474,Red,France
+Cot,2022,8840.501889,1020.217712,Red,France
+Cot,2023,7384.879,1685.064331,Red,France
+Dolcetto,2001,0,0,Red,Italy
+Dolcetto,2002,0,0,Red,Italy
+Dolcetto,2003,0,0,Red,Italy
+Dolcetto,2004,46,2501.483887,Red,Italy
+Dolcetto,2005,45,1964.748291,Red,Italy
+Dolcetto,2006,0,0,Red,Italy
+Dolcetto,2007,0,0,Red,Italy
+Dolcetto,2008,0,0,Red,Italy
+Dolcetto,2009,46.46624756,1044.027954,Red,Italy
+Dolcetto,2010,1604.300021,,Red,Italy
+Dolcetto,2011,48.31893158,404.3346863,Red,Italy
+Dolcetto,2012,1132.240029,,Red,Italy
+Dolcetto,2013,96.91739082,776.5219727,Red,Italy
+Dolcetto,2014,37.34758425,1582.115845,Red,Italy
+Dolcetto,2015,800.6919854,901.7677612,Red,Italy
+Dolcetto,2016,806.6440068,896.2578125,Red,Italy
+Dolcetto,2017,1080.298009,,Red,Italy
+Dolcetto,2018,827.0040109,,Red,Italy
+Dolcetto,2019,1203.565002,882.7926636,Red,Italy
+Dolcetto,2020,815.7409964,,Red,Italy
+Dolcetto,2021,887.4530013,664.244873,Red,Italy
+Dolcetto,2022,0,0,Red,Italy
+Dolcetto,2023,712.481,859.4379272,Red,Italy
+Durif,2001,1487.000044,1175.491943,Red,France
+Durif,2002,2950.179938,1149.045654,Red,France
+Durif,2003,3220.70005,945.9255371,Red,France
+Durif,2004,4058.759897,959.2401123,Red,France
+Durif,2005,4758.40002,847.0482788,Red,France
+Durif,2006,4320.400043,664.6317139,Red,France
+Durif,2007,4192.810111,868.3535767,Red,France
+Durif,2008,5207.389985,834.7805786,Red,France
+Durif,2009,3960.749379,832.5720215,Red,France
+Durif,2010,4171.200039,540.1033325,Red,France
+Durif,2011,3500.167446,468.4472351,Red,France
+Durif,2012,3673.319929,527.3426514,Red,France
+Durif,2013,4746.502854,722.1135254,Red,France
+Durif,2014,4048.468131,654.0063477,Red,France
+Durif,2015,6116.337817,579.7648315,Red,France
+Durif,2016,5737.687868,594.3306274,Red,France
+Durif,2017,8064.02111,644.6758423,Red,France
+Durif,2018,7866.676209,713.8067017,Red,France
+Durif,2019,10603.6209,820.755249,Red,France
+Durif,2020,11577.28467,814.7086182,Red,France
+Durif,2021,13921.64404,723.0946045,Red,France
+Durif,2022,15147.75438,504.6304321,Red,France
+Durif,2023,11384.357,350.3313293,Red,France
+Fiano,2001,0,0,White,Italy
+Fiano,2002,0,0,White,Italy
+Fiano,2003,0,0,White,Italy
+Fiano,2004,0,0,White,Italy
+Fiano,2005,0,0,White,Italy
+Fiano,2006,0,0,White,Italy
+Fiano,2007,0,0,White,Italy
+Fiano,2008,0,0,White,Italy
+Fiano,2009,16.64964485,2301.824463,White,Italy
+Fiano,2010,0,0,White,Italy
+Fiano,2011,80.89715195,1229.582031,White,Italy
+Fiano,2012,187.3999925,623.2230835,White,Italy
+Fiano,2013,722.1231012,675.9312744,White,Italy
+Fiano,2014,1577.010082,546.104126,White,Italy
+Fiano,2015,1152.499997,503.7018738,White,Italy
+Fiano,2016,1926.916988,1550.316528,White,Italy
+Fiano,2017,2640.943015,1105.728149,White,Italy
+Fiano,2018,1764.741996,1730.773804,White,Italy
+Fiano,2019,2881.016054,556.0184937,White,Italy
+Fiano,2020,1959.210057,1081.359375,White,Italy
+Fiano,2021,2573.599975,1411.757813,White,Italy
+Fiano,2022,2398.437019,1165.633789,White,Italy
+Fiano,2023,1251.283,1105.631104,White,Italy
+Garnacha Tinta,2001,21760.30002,1533.78064,Red,Spain
+Garnacha Tinta,2002,25870.32996,1482.728394,Red,Spain
+Garnacha Tinta,2003,19648.59997,1369.21875,Red,Spain
+Garnacha Tinta,2004,23693.30218,1306.685547,Red,Spain
+Garnacha Tinta,2005,25349.1,1148.140381,Red,Spain
+Garnacha Tinta,2006,23204.59996,963.4030762,Red,Spain
+Garnacha Tinta,2007,15193.19875,1056.796265,Red,Spain
+Garnacha Tinta,2008,16844.47999,1404.476807,Red,Spain
+Garnacha Tinta,2009,15391.08631,1003.531311,Red,Spain
+Garnacha Tinta,2010,10337.5,958.8897705,Red,Spain
+Garnacha Tinta,2011,14907.95238,812.5993652,Red,Spain
+Garnacha Tinta,2012,13024.56001,1018.736023,Red,Spain
+Garnacha Tinta,2013,13452.59232,973.2753296,Red,Spain
+Garnacha Tinta,2014,12653.4076,951.3128052,Red,Spain
+Garnacha Tinta,2015,11986.95702,990.2056274,Red,Spain
+Garnacha Tinta,2016,11661.82998,1159.010742,Red,Spain
+Garnacha Tinta,2017,15734.39001,1138.190796,Red,Spain
+Garnacha Tinta,2018,11868.65199,1309.940308,Red,Spain
+Garnacha Tinta,2019,10696.97901,1222.937378,Red,Spain
+Garnacha Tinta,2020,9586.966997,1531.658691,Red,Spain
+Garnacha Tinta,2021,13892.30403,1499.900879,Red,Spain
+Garnacha Tinta,2022,13682.74019,1423.855103,Red,Spain
+Garnacha Tinta,2023,12329.667,1517.015503,Red,Spain
+Gewurztraminer,2001,4240.799992,1188.810181,White,Germany
+Gewurztraminer,2002,5903.949995,1191.510498,White,Germany
+Gewurztraminer,2003,5681.400041,976.4995117,White,Germany
+Gewurztraminer,2004,7242.594259,961.7589722,White,Germany
+Gewurztraminer,2005,9703.90001,841.3074341,White,Germany
+Gewurztraminer,2006,10325.19982,832.6660156,White,Germany
+Gewurztraminer,2007,8243.634931,762.2392578,White,Germany
+Gewurztraminer,2008,11486.80992,920.5158691,White,Germany
+Gewurztraminer,2009,9286.956677,658.7841797,White,Germany
+Gewurztraminer,2010,9403.699798,590.9197998,White,Germany
+Gewurztraminer,2011,10319.3167,485.4037476,White,Germany
+Gewurztraminer,2012,10515.48007,517.0558472,White,Germany
+Gewurztraminer,2013,8716.619215,507.3700867,White,Germany
+Gewurztraminer,2014,10041.91624,430.0653076,White,Germany
+Gewurztraminer,2015,12150.76008,428.8721313,White,Germany
+Gewurztraminer,2016,12548.29501,435.2813416,White,Germany
+Gewurztraminer,2017,12440.96178,401.0832214,White,Germany
+Gewurztraminer,2018,11834.02803,394.8125916,White,Germany
+Gewurztraminer,2019,10637.41186,421.2096558,White,Germany
+Gewurztraminer,2020,8636.48715,424.0723877,White,Germany
+Gewurztraminer,2021,8275.70676,431.6633606,White,Germany
+Gewurztraminer,2022,8473.706011,428.1665649,White,Germany
+Gewurztraminer,2023,6356.072,386.1907959,White,Germany
+Lambrusco Maestri,2001,0,0,Red,Italy
+Lambrusco Maestri,2002,0,0,Red,Italy
+Lambrusco Maestri,2003,0,0,Red,Italy
+Lambrusco Maestri,2004,0,0,Red,Italy
+Lambrusco Maestri,2005,0,0,Red,Italy
+Lambrusco Maestri,2006,0,0,Red,Italy
+Lambrusco Maestri,2007,0,0,Red,Italy
+Lambrusco Maestri,2008,0,0,Red,Italy
+Lambrusco Maestri,2009,0,0,Red,Italy
+Lambrusco Maestri,2010,0,0,Red,Italy
+Lambrusco Maestri,2011,0,0,Red,Italy
+Lambrusco Maestri,2012,0,0,Red,Italy
+Lambrusco Maestri,2013,0,0,Red,Italy
+Lambrusco Maestri,2014,0,0,Red,Italy
+Lambrusco Maestri,2015,547.3600121,,Red,Italy
+Lambrusco Maestri,2016,590.409996,,Red,Italy
+Lambrusco Maestri,2017,933.1120186,,Red,Italy
+Lambrusco Maestri,2018,1563.303969,,Red,Italy
+Lambrusco Maestri,2019,3337.895089,,Red,Italy
+Lambrusco Maestri,2020,7418.640167,760.5721436,Red,Italy
+Lambrusco Maestri,2021,9209.55798,726.972168,Red,Italy
+Lambrusco Maestri,2022,0,0,Red,Italy
+Lambrusco Maestri,2023,11239.8,,Red,Italy
+Marsanne,2001,2323.999972,1158.649048,White,France
+Marsanne,2002,2378.699951,1530.543457,White,France
+Marsanne,2003,1988.400008,871.1099243,White,France
+Marsanne,2004,3235.217512,1269.796265,White,France
+Marsanne,2005,1816.900014,1244.004761,White,France
+Marsanne,2006,1547.199988,1014.911926,White,France
+Marsanne,2007,1150.632669,858.479248,White,France
+Marsanne,2008,1858.469979,1188.186157,White,France
+Marsanne,2009,691.6038451,881.5310669,White,France
+Marsanne,2010,1682.299989,876.4397583,White,France
+Marsanne,2011,655.828661,779.2787476,White,France
+Marsanne,2012,1792.499967,587.699585,White,France
+Marsanne,2013,533.7957959,735.0739136,White,France
+Marsanne,2014,556.9873855,730.842041,White,France
+Marsanne,2015,1980.629975,527.064209,White,France
+Marsanne,2016,1621.519025,541.8574829,White,France
+Marsanne,2017,2190.285985,399.6957703,White,France
+Marsanne,2018,1819.220032,491.5048828,White,France
+Marsanne,2019,1277.698999,500.0553894,White,France
+Marsanne,2020,978.1839814,434.878418,White,France
+Marsanne,2021,1470.107013,462.6083984,White,France
+Marsanne,2022,801.7619978,700.7851563,White,France
+Marsanne,2023,606.534,628.3603516,White,France
+Merlot,2001,78749.9999,1864.910645,Red,France
+Merlot,2002,103922.3593,1460.082153,Red,France
+Merlot,2003,94941.40147,1487.214355,Red,France
+Merlot,2004,124440.0524,1198.853516,Red,France
+Merlot,2005,135976.3004,1037.367432,Red,France
+Merlot,2006,128506.801,903.3926392,Red,France
+Merlot,2007,90291.56441,945.5960083,Red,France
+Merlot,2008,128678.3914,1089.818726,Red,France
+Merlot,2009,112900.2849,787.2189331,Red,France
+Merlot,2010,102038.5,645.6798706,Red,France
+Merlot,2011,96382.4052,564.2734985,Red,France
+Merlot,2012,110728.5907,661.281189,Red,France
+Merlot,2013,110543.2649,641.401123,Red,France
+Merlot,2014,103279.6224,537.6108398,Red,France
+Merlot,2015,100203.6568,548.2327271,Red,France
+Merlot,2016,98853.76422,555.6543579,Red,France
+Merlot,2017,110245.2845,574.4485474,Red,France
+Merlot,2018,89687.29873,656.9644775,Red,France
+Merlot,2019,107213.3979,782.9517212,Red,France
+Merlot,2020,86134.04458,793.9954224,Red,France
+Merlot,2021,108633.3598,688.7507935,Red,France
+Merlot,2022,88345.35301,535.2858276,Red,France
+Merlot,2023,60624.984,413.8916321,Red,France
+Monastrell,2001,11961.50003,1172.291016,Red,Spain
+Monastrell,2002,11946.02001,1028.585449,Red,Spain
+Monastrell,2003,11650.80001,811.7774658,Red,Spain
+Monastrell,2004,12885.94231,855.2562866,Red,Spain
+Monastrell,2005,9207.89997,844.5354004,Red,Spain
+Monastrell,2006,11196.10006,723.8895264,Red,Spain
+Monastrell,2007,5893.436088,876.4411621,Red,Spain
+Monastrell,2008,7136.280026,1145.602051,Red,Spain
+Monastrell,2009,5513.070012,876.1500244,Red,Spain
+Monastrell,2010,4153.100013,1013.143005,Red,Spain
+Monastrell,2011,4557.768287,820.7824707,Red,Spain
+Monastrell,2012,4812.990004,958.552124,Red,Spain
+Monastrell,2013,4935.453281,855.3271484,Red,Spain
+Monastrell,2014,4299.850086,882.5379028,Red,Spain
+Monastrell,2015,6237.403997,972.7440796,Red,Spain
+Monastrell,2016,4661.364994,1126.090698,Red,Spain
+Monastrell,2017,6582.546011,1078.464844,Red,Spain
+Monastrell,2018,6133.422003,1120.775391,Red,Spain
+Monastrell,2019,5311.039994,1120.554077,Red,Spain
+Monastrell,2020,4350.716995,1308.565918,Red,Spain
+Monastrell,2021,8519.279982,1290.869507,Red,Spain
+Monastrell,2022,5354.284039,1272.46814,Red,Spain
+Monastrell,2023,5141.614,1181.667358,Red,Spain
+Moscato Giallo,2001,0,0,White,Italy
+Moscato Giallo,2002,0,0,White,Italy
+Moscato Giallo,2003,0,0,White,Italy
+Moscato Giallo,2004,0,0,White,Italy
+Moscato Giallo,2005,0,0,White,Italy
+Moscato Giallo,2006,0,0,White,Italy
+Moscato Giallo,2007,0,0,White,Italy
+Moscato Giallo,2008,0,0,White,Italy
+Moscato Giallo,2009,0,0,White,Italy
+Moscato Giallo,2010,0,0,White,Italy
+Moscato Giallo,2011,0,0,White,Italy
+Moscato Giallo,2012,0,0,White,Italy
+Moscato Giallo,2013,0,0,White,Italy
+Moscato Giallo,2014,0,0,White,Italy
+Moscato Giallo,2015,2232.50407,341.4553833,White,Italy
+Moscato Giallo,2016,1922.217987,321.5245667,White,Italy
+Moscato Giallo,2017,2850.056999,351.2412415,White,Italy
+Moscato Giallo,2018,2367.617976,341.8146057,White,Italy
+Moscato Giallo,2019,2552.165956,333.5160217,White,Italy
+Moscato Giallo,2020,2005.296026,414.1655884,White,Italy
+Moscato Giallo,2021,2455.396996,389.3612976,White,Italy
+Moscato Giallo,2022,0,0,White,Italy
+Moscato Giallo,2023,1470.181,,White,Italy
+Muscadelle,2001,1491.899985,1335.709839,White,France
+Muscadelle,2002,1288.320005,1394.608154,White,France
+Muscadelle,2003,909.1000111,1559.936401,White,France
+Muscadelle,2004,1056.983743,1053.446899,White,France
+Muscadelle,2005,924.6000056,1184.4646,White,France
+Muscadelle,2006,714.2000108,911.7236938,White,France
+Muscadelle,2007,528.6766782,1898.599121,White,France
+Muscadelle,2008,656.9800081,696.2153931,White,France
+Muscadelle,2009,677.1537895,673.2624512,White,France
+Muscadelle,2010,404.1000047,676.6876221,White,France
+Muscadelle,2011,150,375.9144287,White,France
+Muscadelle,2012,464.820001,541.8532715,White,France
+Muscadelle,2013,94.70032644,749.7151489,White,France
+Muscadelle,2014,32.00032997,783.1212158,White,France
+Muscadelle,2015,788.8799959,328.9720459,White,France
+Muscadelle,2016,386.7040086,984.8986816,White,France
+Muscadelle,2017,420.1099964,917.9042358,White,France
+Muscadelle,2018,375.8920014,1269.55835,White,France
+Muscadelle,2019,291.1519954,,White,France
+Muscadelle,2020,262.3740011,,White,France
+Muscadelle,2021,268.7790043,,White,France
+Muscadelle,2022,0,0,White,France
+Muscadelle,2023,275.306,,White,France
+Muscat Blanc a Petits Grains,2001,2531.000001,741.348999,White,Greece
+Muscat Blanc a Petits Grains,2002,2704.130027,749.0494385,White,Greece
+Muscat Blanc a Petits Grains,2003,1811.599992,712.3259888,White,Greece
+Muscat Blanc a Petits Grains,2004,2071.687798,733.3583374,White,Greece
+Muscat Blanc a Petits Grains,2005,2149.199991,810.9046631,White,Greece
+Muscat Blanc a Petits Grains,2006,531.0999857,785.3623657,White,Greece
+Muscat Blanc a Petits Grains,2007,599.6614563,685.44104,White,Greece
+Muscat Blanc a Petits Grains,2008,3625.180002,817.475708,White,Greece
+Muscat Blanc a Petits Grains,2009,7660.475332,679.4605713,White,Greece
+Muscat Blanc a Petits Grains,2010,3083.800002,545.7658081,White,Greece
+Muscat Blanc a Petits Grains,2011,17714.17003,525.9660645,White,Greece
+Muscat Blanc a Petits Grains,2012,12628.45021,550.0869141,White,Greece
+Muscat Blanc a Petits Grains,2013,21889.21892,528.1033325,White,Greece
+Muscat Blanc a Petits Grains,2014,22093.48197,388.1083069,White,Greece
+Muscat Blanc a Petits Grains,2015,17670.43847,362.1445618,White,Greece
+Muscat Blanc a Petits Grains,2016,19417.00595,386.2427979,White,Greece
+Muscat Blanc a Petits Grains,2017,22675.38264,387.8037415,White,Greece
+Muscat Blanc a Petits Grains,2018,18978.80068,375.5300903,White,Greece
+Muscat Blanc a Petits Grains,2019,18350.95584,410.7365723,White,Greece
+Muscat Blanc a Petits Grains,2020,18110.63366,420.5881958,White,Greece
+Muscat Blanc a Petits Grains,2021,20211.44958,399.6066589,White,Greece
+Muscat Blanc a Petits Grains,2022,18713.14668,391.8241577,White,Greece
+Muscat Blanc a Petits Grains,2023,10513.053,342.0461121,White,Greece
+Muscat Blanc a Petits Grains (R),2001,1571.700004,1725.273438,White,Greece
+Muscat Blanc a Petits Grains (R),2002,1550.54,1503.984863,White,Greece
+Muscat Blanc a Petits Grains (R),2003,1298.199997,1580.025513,White,Greece
+Muscat Blanc a Petits Grains (R),2004,1271.508954,1570.236206,White,Greece
+Muscat Blanc a Petits Grains (R),2005,1623.900015,1540.690552,White,Greece
+Muscat Blanc a Petits Grains (R),2006,1523.800028,919.828125,White,Greece
+Muscat Blanc a Petits Grains (R),2007,1256.418154,1366.927734,White,Greece
+Muscat Blanc a Petits Grains (R),2008,1189.199994,991.5484009,White,Greece
+Muscat Blanc a Petits Grains (R),2009,775.6475277,647.0386353,White,Greece
+Muscat Blanc a Petits Grains (R),2010,1519.299984,1420.736938,White,Greece
+Muscat Blanc a Petits Grains (R),2011,737.1685586,758.4899292,White,Greece
+Muscat Blanc a Petits Grains (R),2012,1442.309985,463.8323364,White,Greece
+Muscat Blanc a Petits Grains (R),2013,1030.334422,691.0820313,White,Greece
+Muscat Blanc a Petits Grains (R),2014,1311.189113,605.5264282,White,Greece
+Muscat Blanc a Petits Grains (R),2015,1646.849979,486.5092468,White,Greece
+Muscat Blanc a Petits Grains (R),2016,1270.149014,458.0772705,White,Greece
+Muscat Blanc a Petits Grains (R),2017,1722.740992,381.5390625,White,Greece
+Muscat Blanc a Petits Grains (R),2018,1359.903022,366.6989746,White,Greece
+Muscat Blanc a Petits Grains (R),2019,1683.371983,569.5536499,White,Greece
+Muscat Blanc a Petits Grains (R),2020,1916.968975,417.2740173,White,Greece
+Muscat Blanc a Petits Grains (R),2021,1865.441001,542.1999512,White,Greece
+Muscat Blanc a Petits Grains (R),2022,1292.244964,722.616333,White,Greece
+Muscat Blanc a Petits Grains (R),2023,1247.805,476.4103394,White,Greece
+Muscat of Alexandria,2001,50718.6,614.5940552,White,Greece
+Muscat of Alexandria,2002,54371.69999,632.9282837,White,Greece
+Muscat of Alexandria,2003,48470.30049,600.1818848,White,Greece
+Muscat of Alexandria,2004,55155.95121,577.7372437,White,Greece
+Muscat of Alexandria,2005,50137.80011,596.0056152,White,Greece
+Muscat of Alexandria,2006,53323.59981,552.3482666,White,Greece
+Muscat of Alexandria,2007,42073.72214,567.2142944,White,Greece
+Muscat of Alexandria,2008,37838.58012,706.425415,White,Greece
+Muscat of Alexandria,2009,55481.68408,538.4889526,White,Greece
+Muscat of Alexandria,2010,49629.09933,379.1439514,White,Greece
+Muscat of Alexandria,2011,54036.39287,467.2940674,White,Greece
+Muscat of Alexandria,2012,55581.6108,541.4581299,White,Greece
+Muscat of Alexandria,2013,73474.27494,484.4782715,White,Greece
+Muscat of Alexandria,2014,67233.89207,345.1187439,White,Greece
+Muscat of Alexandria,2015,50734.55361,293.2383423,White,Greece
+Muscat of Alexandria,2016,50127.48779,271.6651001,White,Greece
+Muscat of Alexandria,2017,62511.41912,284.6876526,White,Greece
+Muscat of Alexandria,2018,49427.18408,290.1811218,White,Greece
+Muscat of Alexandria,2019,53938.61973,321.3549805,White,Greece
+Muscat of Alexandria,2020,48898.77236,376.7669678,White,Greece
+Muscat of Alexandria,2021,54645.92883,363.0065613,White,Greece
+Muscat of Alexandria,2022,45180.01554,350.3596802,White,Greece
+Muscat of Alexandria,2023,37776.183,313.3916626,White,Greece
+Petit Verdot,2001,6029.40001,1620.976563,Red,France
+Petit Verdot,2002,14422.46998,1108.15625,Red,France
+Petit Verdot,2003,15523.39993,1035.368164,Red,France
+Petit Verdot,2004,22882.60324,778.3030396,Red,France
+Petit Verdot,2005,23869.30003,695.3155518,Red,France
+Petit Verdot,2006,24090.40012,627.3070679,Red,France
+Petit Verdot,2007,14545.24137,672.4889526,Red,France
+Petit Verdot,2008,23453.70987,823.6231079,Red,France
+Petit Verdot,2009,17798.00595,527.5529785,Red,France
+Petit Verdot,2010,17935.2,409.2318115,Red,France
+Petit Verdot,2011,14272.70981,379.8874207,Red,France
+Petit Verdot,2012,16357.54991,459.1578369,Red,France
+Petit Verdot,2013,18804.25339,477.1036682,Red,France
+Petit Verdot,2014,17257.51784,412.7028809,Red,France
+Petit Verdot,2015,20088.20391,447.6558533,Red,France
+Petit Verdot,2016,17734.32892,443.2916565,Red,France
+Petit Verdot,2017,20755.72194,459.6617737,Red,France
+Petit Verdot,2018,18763.8468,507.8795776,Red,France
+Petit Verdot,2019,19850.13095,594.8400879,Red,France
+Petit Verdot,2020,20070.36805,666.6489258,Red,France
+Petit Verdot,2021,23811.08293,577.2745972,Red,France
+Petit Verdot,2022,17971.56675,409.1146545,Red,France
+Petit Verdot,2023,14619.393,247.1717072,Red,France
+Pinot Gris,2001,181,2938.528809,White,France
+Pinot Gris,2002,149,2785.89502,White,France
+Pinot Gris,2003,503,2840.768555,White,France
+Pinot Gris,2004,2448.828867,2765.035889,White,France
+Pinot Gris,2005,2888.499978,2285.962646,White,France
+Pinot Gris,2006,6340.700025,1944.8573,White,France
+Pinot Gris,2007,12577.26999,1579.225342,White,France
+Pinot Gris,2008,27520.24025,1500.925903,White,France
+Pinot Gris,2009,40640.13043,1014.13916,White,France
+Pinot Gris,2010,40054.59987,1010.403564,White,France
+Pinot Gris,2011,34546.52767,822.1229248,White,France
+Pinot Gris,2012,51154.75906,753.0285645,White,France
+Pinot Gris,2013,59991.60932,774.4187012,White,France
+Pinot Gris,2014,60097.78372,675.9524536,White,France
+Pinot Gris,2015,68925.49817,776.0924683,White,France
+Pinot Gris,2016,63034.75564,780.8068237,White,France
+Pinot Gris,2017,66129.16631,826.7544556,White,France
+Pinot Gris,2018,64814.71645,789.8693237,White,France
+Pinot Gris,2019,63302.17451,768.8742065,White,France
+Pinot Gris,2020,63712.50153,759.9955444,White,France
+Pinot Gris,2021,82768.6403,791.6847534,White,France
+Pinot Gris,2022,66236.37879,753.0865479,White,France
+Pinot Gris,2023,50677.103,762.5723877,White,France
+Pinot Meunier,2001,1193.89999,3389.659668,Red,France
+Pinot Meunier,2002,539.0800021,2999.376221,Red,France
+Pinot Meunier,2003,822.1,3129.674316,Red,France
+Pinot Meunier,2004,1592.450521,2569.773193,Red,France
+Pinot Meunier,2005,1097.100006,2146.331543,Red,France
+Pinot Meunier,2006,619.4000097,2240.120605,Red,France
+Pinot Meunier,2007,284.2941609,2368.976074,Red,France
+Pinot Meunier,2008,1280.900005,2542.080078,Red,France
+Pinot Meunier,2009,508.5374765,1926.398682,Red,France
+Pinot Meunier,2010,179,1290.944702,Red,France
+Pinot Meunier,2011,639.3272572,1776.022705,Red,France
+Pinot Meunier,2012,151,1494.137451,Red,France
+Pinot Meunier,2013,528.1038028,1945.072021,Red,France
+Pinot Meunier,2014,252.9591357,1991.036133,Red,France
+Pinot Meunier,2015,513.6819961,1949.177368,Red,France
+Pinot Meunier,2016,473.8119912,1667.281494,Red,France
+Pinot Meunier,2017,902.4520081,1841.692139,Red,France
+Pinot Meunier,2018,848.0500033,2056.727051,Red,France
+Pinot Meunier,2019,851.2539995,1806.347534,Red,France
+Pinot Meunier,2020,370.3800012,2213.529785,Red,France
+Pinot Meunier,2021,861.267996,1926.618042,Red,France
+Pinot Meunier,2022,611.0880034,2339.199951,Red,France
+Pinot Meunier,2023,561.329,2612.57373,Red,France
+Pinot Noir,2001,29806.49993,2256.099365,Red,France
+Pinot Noir,2002,21071.38005,2001.689331,Red,France
+Pinot Noir,2003,30324.80032,2196.475342,Red,France
+Pinot Noir,2004,44884.89379,1965.065918,Red,France
+Pinot Noir,2005,38838.49977,1689.096313,Red,France
+Pinot Noir,2006,35321.79991,1680.326538,Red,France
+Pinot Noir,2007,27625.07199,1963.531982,Red,France
+Pinot Noir,2008,46198.21042,2115.174561,Red,France
+Pinot Noir,2009,27238.39197,1523.69104,Red,France
+Pinot Noir,2010,39738.50002,1528.237183,Red,France
+Pinot Noir,2011,32942.99127,1302.947388,Red,France
+Pinot Noir,2012,35384.14976,1164.510986,Red,France
+Pinot Noir,2013,39739.50811,1387.603516,Red,France
+Pinot Noir,2014,31316.69743,1098.722412,Red,France
+Pinot Noir,2015,43436.08985,1365.282227,Red,France
+Pinot Noir,2016,42641.78911,1336.12793,Red,France
+Pinot Noir,2017,44293.2959,1350.064819,Red,France
+Pinot Noir,2018,45378.54034,1557.272827,Red,France
+Pinot Noir,2019,42726.77309,1551.891968,Red,France
+Pinot Noir,2020,32535.3396,1589.643433,Red,France
+Pinot Noir,2021,49349.72036,1671.728027,Red,France
+Pinot Noir,2022,40119.25624,1637.890869,Red,France
+Pinot Noir,2023,35937.993,1818.130371,Red,France
+Prosecco,2001,0,0,White,Italy
+Prosecco,2002,0,0,White,Italy
+Prosecco,2003,0,0,White,Italy
+Prosecco,2004,0,0,White,Italy
+Prosecco,2005,0,0,White,Italy
+Prosecco,2006,0,0,White,Italy
+Prosecco,2007,0,0,White,Italy
+Prosecco,2008,0,0,White,Italy
+Prosecco,2009,5.758506775,1511.140991,White,Italy
+Prosecco,2010,0,0,White,Italy
+Prosecco,2011,483.6581345,461.3977661,White,Italy
+Prosecco,2012,0,0,White,Italy
+Prosecco,2013,523.0186768,930.7133789,White,Italy
+Prosecco,2014,749.0426712,858.3328247,White,Italy
+Prosecco,2015,2548.640039,1240.511108,White,Italy
+Prosecco,2016,3144.038017,958.2674561,White,Italy
+Prosecco,2017,6217.237045,958.4885864,White,Italy
+Prosecco,2018,6020.812132,909.2019043,White,Italy
+Prosecco,2019,9020.722862,984.3956909,White,Italy
+Prosecco,2020,9218.064197,924.9702148,White,Italy
+Prosecco,2021,14078.17822,1088.848877,White,Italy
+Prosecco,2022,13953.22877,1049.444092,White,Italy
+Prosecco,2023,12999.825,934.1751099,White,Italy
+Riesling,2001,26236.00003,1566.851807,White,Germany
+Riesling,2002,27613.70989,1615.883545,White,Germany
+Riesling,2003,29572.29995,1757.172241,White,Germany
+Riesling,2004,35781.66572,1715.516846,White,Germany
+Riesling,2005,40399.60015,1578.239258,White,Germany
+Riesling,2006,39885.29999,1282.965576,White,Germany
+Riesling,2007,31163.50922,1289.591919,White,Germany
+Riesling,2008,39156.55003,1475.01709,White,Germany
+Riesling,2009,30318.70256,1123.950073,White,Germany
+Riesling,2010,31617.1999,1042.472534,White,Germany
+Riesling,2011,25915.60425,870.5461426,White,Germany
+Riesling,2012,30032.38985,875.6000977,White,Germany
+Riesling,2013,26908.08703,908.0255127,White,Germany
+Riesling,2014,19953.65737,914.1141968,White,Germany
+Riesling,2015,25976.11007,1025.747314,White,Germany
+Riesling,2016,22331.7889,1080.680176,White,Germany
+Riesling,2017,24883.79092,1163.997925,White,Germany
+Riesling,2018,21776.67394,1202.56897,White,Germany
+Riesling,2019,21082.9379,1235.092285,White,Germany
+Riesling,2020,15217.63897,1297.583252,White,Germany
+Riesling,2021,19152.25798,1373.848999,White,Germany
+Riesling,2022,18868.97094,1356.032227,White,Germany
+Riesling,2023,18604.768,1355.33252,White,Germany
+Rubired,2001,297,741.1825562,Red,United States
+Rubired,2002,245,555.0469971,Red,United States
+Rubired,2003,248,484.7900696,Red,United States
+Rubired,2004,161,617.0769043,Red,United States
+Rubired,2005,216,548.7203369,Red,United States
+Rubired,2006,0,0,Red,United States
+Rubired,2007,0,0,Red,United States
+Rubired,2008,0,0,Red,United States
+Rubired,2009,0,0,Red,United States
+Rubired,2010,0,0,Red,United States
+Rubired,2011,0,0,Red,United States
+Rubired,2012,0,0,Red,United States
+Rubired,2013,0,0,Red,United States
+Rubired,2014,0,0,Red,United States
+Rubired,2015,216.6700058,,Red,United States
+Rubired,2016,333.5299988,,Red,United States
+Rubired,2017,1487.859985,,Red,United States
+Rubired,2018,913.7000122,,Red,United States
+Rubired,2019,1138.020004,,Red,United States
+Rubired,2020,2141.130035,,Red,United States
+Rubired,2021,2765.858871,,Red,United States
+Rubired,2022,0,0,Red,United States
+Rubired,2023,3951.22,419.9606018,Red,United States
+Ruby Cabernet,2001,32057.00002,1155.969238,Red,United States
+Ruby Cabernet,2002,50192.36997,933.3918457,Red,United States
+Ruby Cabernet,2003,38230.0997,755.451416,Red,United States
+Ruby Cabernet,2004,34363.36553,639.3667603,Red,United States
+Ruby Cabernet,2005,32833.89971,498.3694763,Red,United States
+Ruby Cabernet,2006,25916.50035,461.8440552,Red,United States
+Ruby Cabernet,2007,15631.39883,513.2581787,Red,United States
+Ruby Cabernet,2008,17265.78042,630.800354,Red,United States
+Ruby Cabernet,2009,10314.03564,449.1567383,Red,United States
+Ruby Cabernet,2010,12810.4,352.3074036,Red,United States
+Ruby Cabernet,2011,10202.13337,368.3823242,Red,United States
+Ruby Cabernet,2012,9745.459751,384.4019165,Red,United States
+Ruby Cabernet,2013,10063.9831,403.8422241,Red,United States
+Ruby Cabernet,2014,7149.695018,342.0392151,Red,United States
+Ruby Cabernet,2015,13182.96018,359.7114258,Red,United States
+Ruby Cabernet,2016,12548.55017,398.4483948,Red,United States
+Ruby Cabernet,2017,11052.10986,396.9406128,Red,United States
+Ruby Cabernet,2018,10691.78689,502.9354553,Red,United States
+Ruby Cabernet,2019,12282.14016,621.765564,Red,United States
+Ruby Cabernet,2020,13305.70682,669.3284912,Red,United States
+Ruby Cabernet,2021,12739.66204,571.9071655,Red,United States
+Ruby Cabernet,2022,9329.216935,393.9072571,Red,United States
+Ruby Cabernet,2023,4220.45,305.6364441,Red,United States
+Sangiovese,2001,3080.899995,1702.648682,Red,Italy
+Sangiovese,2002,5823.160026,1115.893677,Red,Italy
+Sangiovese,2003,5054.30006,1324.655762,Red,Italy
+Sangiovese,2004,5076.880551,1200.067871,Red,Italy
+Sangiovese,2005,6098.600035,1047.956787,Red,Italy
+Sangiovese,2006,4886.899986,918.0083008,Red,Italy
+Sangiovese,2007,3546.943873,1044.698486,Red,Italy
+Sangiovese,2008,5359.830017,1135.919678,Red,Italy
+Sangiovese,2009,3300.762447,940.9745483,Red,Italy
+Sangiovese,2010,3730.899969,716.6605225,Red,Italy
+Sangiovese,2011,3200.832952,652.3163452,Red,Italy
+Sangiovese,2012,3476.340026,994.7305298,Red,Italy
+Sangiovese,2013,2875.342453,678.1974487,Red,Italy
+Sangiovese,2014,2638.318383,764.781189,Red,Italy
+Sangiovese,2015,4608.594028,736.0515747,Red,Italy
+Sangiovese,2016,2828.505014,892.7022705,Red,Italy
+Sangiovese,2017,3901.414047,769.2786255,Red,Italy
+Sangiovese,2018,3398.312009,985.0117188,Red,Italy
+Sangiovese,2019,3965.91103,1084.312622,Red,Italy
+Sangiovese,2020,3251.450005,1047.744019,Red,Italy
+Sangiovese,2021,5537.866034,1025.668701,Red,Italy
+Sangiovese,2022,4824.257975,1107.998047,Red,Italy
+Sangiovese,2023,4649.579,988.5466919,Red,Italy
+Sauvignon Blanc,2001,25736.00013,1859.809692,White,France
+Sauvignon Blanc,2002,29133.88984,1660.835693,White,France
+Sauvignon Blanc,2003,21364.50012,1844.841431,White,France
+Sauvignon Blanc,2004,41952.29316,1837.890747,White,France
+Sauvignon Blanc,2005,40103.50023,1782.123047,White,France
+Sauvignon Blanc,2006,41948.69995,1615.5802,White,France
+Sauvignon Blanc,2007,37855.85662,1739.673218,White,France
+Sauvignon Blanc,2008,66705.00014,1722.186646,White,France
+Sauvignon Blanc,2009,60766.48013,1212.670776,White,France
+Sauvignon Blanc,2010,73817.40062,993.5276489,White,France
+Sauvignon Blanc,2011,74179.21413,780.5717163,White,France
+Sauvignon Blanc,2012,82653.53166,748.0622559,White,France
+Sauvignon Blanc,2013,76638.28374,740.6104126,White,France
+Sauvignon Blanc,2014,88462.79086,691.5291138,White,France
+Sauvignon Blanc,2015,83637.98743,686.5078125,White,France
+Sauvignon Blanc,2016,88789.71352,701.6784668,White,France
+Sauvignon Blanc,2017,94334.43058,740.2027588,White,France
+Sauvignon Blanc,2018,78738.90239,752.8612671,White,France
+Sauvignon Blanc,2019,82147.45356,720.3195801,White,France
+Sauvignon Blanc,2020,78783.13259,739.0667725,White,France
+Sauvignon Blanc,2021,90686.08453,790.8723755,White,France
+Sauvignon Blanc,2022,81929.27226,863.3344727,White,France
+Sauvignon Blanc,2023,77905.524,825.0933228,White,France
+Sultaniye,2001,73418.90059,562.093689,White,Turkey
+Sultaniye,2002,66646.499,524.7659912,White,Turkey
+Sultaniye,2003,34445.30096,527.8744507,White,Turkey
+Sultaniye,2004,58168.83338,489.8309631,White,Turkey
+Sultaniye,2005,35584.0002,467.2154236,White,Turkey
+Sultaniye,2006,14943.29976,399.1920166,White,Turkey
+Sultaniye,2007,20097.17299,367.2984924,White,Turkey
+Sultaniye,2008,16874.75014,508.3683167,White,Turkey
+Sultaniye,2009,9960.051758,393.6871338,White,Turkey
+Sultaniye,2010,2564.999988,302.3908081,White,Turkey
+Sultaniye,2011,2060.703857,300.7527161,White,Turkey
+Sultaniye,2012,1902.229985,292.7149963,White,Turkey
+Sultaniye,2013,2029.881775,290.0508728,White,Turkey
+Sultaniye,2014,857.7366333,243.7682648,White,Turkey
+Sultaniye,2015,479.980011,267.3999939,White,Turkey
+Sultaniye,2016,525.9400024,264.6915283,White,Turkey
+Sultaniye,2017,427.4599915,258.4625244,White,Turkey
+Sultaniye,2018,697.7999992,283.9645996,White,Turkey
+Sultaniye,2019,603.7100034,305.1341553,White,Turkey
+Sultaniye,2020,198.7499995,,White,Turkey
+Sultaniye,2021,115.2799988,,White,Turkey
+Sultaniye,2022,0,0,White,Turkey
+Sultaniye,2023,118.02,,White,Turkey
+Shiraz,2001,314689.9989,2093.790039,Red,France
+Shiraz,2002,337964.1479,1953.897339,Red,France
+Shiraz,2003,323346.6023,1723.203491,Red,France
+Shiraz,2004,451147.7293,1481.133911,Red,France
+Shiraz,2005,431818.8018,1327.280396,Red,France
+Shiraz,2006,426629.9973,1119.303223,Red,France
+Shiraz,2007,278060.4979,1129.4729,Red,France
+Shiraz,2008,443912.9623,1434.038452,Red,France
+Shiraz,2009,390756.7871,951.2559814,Red,France
+Shiraz,2010,377079.3,911.8827515,Red,France
+Shiraz,2011,274022.8456,742.1175537,Red,France
+Shiraz,2012,335795.8824,874.7433472,Red,France
+Shiraz,2013,365366.8196,905.8740845,Red,France
+Shiraz,2014,380671.6479,808.3471069,Red,France
+Shiraz,2015,370975.4767,852.9518433,Red,France
+Shiraz,2016,379828.5758,952.1915894,Red,France
+Shiraz,2017,439939.0298,1044.538696,Red,France
+Shiraz,2018,364846.7779,1068.545776,Red,France
+Shiraz,2019,381819.1178,1132.425537,Red,France
+Shiraz,2020,339859.0515,1138.5354,Red,France
+Shiraz,2021,480161.7267,1089.505371,Red,France
+Shiraz,2022,391661.3003,834.3520508,Red,France
+Shiraz,2023,313895.291,823.3353271,Red,France
+Semillon,2001,88006.19981,1134.873535,White,France
+Semillon,2002,101263.9119,1122.007324,White,France
+Semillon,2003,76462.79982,1071.268188,White,France
+Semillon,2004,99431.69938,993.5786133,White,France
+Semillon,2005,97894.29998,1006.08429,White,France
+Semillon,2006,95352.59912,840.1166382,White,France
+Semillon,2007,74826.82578,876.732605,White,France
+Semillon,2008,99559.30948,925.4729004,White,France
+Semillon,2009,63231.77392,656.0232544,White,France
+Semillon,2010,76330.39998,571.2440186,White,France
+Semillon,2011,70192.00746,500.5266113,White,France
+Semillon,2012,73116.44057,522.6478882,White,France
+Semillon,2013,63701.08376,459.6844482,White,France
+Semillon,2014,59145.7912,497.8730774,White,France
+Semillon,2015,62581.5486,423.6846924,White,France
+Semillon,2016,56297.14256,413.0859985,White,France
+Semillon,2017,61866.1709,442.8248901,White,France
+Semillon,2018,51386.08614,475.5253601,White,France
+Semillon,2019,48268.84844,491.2998657,White,France
+Semillon,2020,45695.04292,511.984314,White,France
+Semillon,2021,56490.33675,525.368103,White,France
+Semillon,2022,49914.41313,545.692627,White,France
+Semillon,2023,44541.163,528.0994873,White,France
+Tarrango,2001,2689.999951,1031.129761,Red,Australia
+Tarrango,2002,2590.319963,1042.9375,Red,Australia
+Tarrango,2003,2144.399951,945.5562744,Red,Australia
+Tarrango,2004,4273.035205,903.0604248,Red,Australia
+Tarrango,2005,2724.499973,709.9862671,Red,Australia
+Tarrango,2006,1741.799975,622.5999756,Red,Australia
+Tarrango,2007,2147.968079,455.7691345,Red,Australia
+Tarrango,2008,1830.640034,736.7936401,Red,Australia
+Tarrango,2009,177,474.9300232,Red,Australia
+Tarrango,2010,728.7999889,357.2776489,Red,Australia
+Tarrango,2011,268.6097641,398.2792664,Red,Australia
+Tarrango,2012,21,332.918335,Red,Australia
+Tarrango,2013,244.6004333,451.030365,Red,Australia
+Tarrango,2014,0,0,Red,Australia
+Tarrango,2015,338.8939972,248.7441864,Red,Australia
+Tarrango,2016,80.54000092,,Red,Australia
+Tarrango,2017,341.9599991,,Red,Australia
+Tarrango,2018,265.2599983,,Red,Australia
+Tarrango,2019,350.6199951,,Red,Australia
+Tarrango,2020,136.3800049,,Red,Australia
+Tarrango,2021,169.9499969,,Red,Australia
+Tarrango,2022,0,0,Red,Australia
+Tarrango,2023,348.03,,Red,Australia
+Tempranillo,2001,171.9999982,1805.87085,Red,Spain
+Tempranillo,2002,406.6000017,1372.018799,Red,Spain
+Tempranillo,2003,653.7999973,1281.536743,Red,Spain
+Tempranillo,2004,1421.650227,1473.477417,Red,Spain
+Tempranillo,2005,2055.500016,1495.587769,Red,Spain
+Tempranillo,2006,1546.299993,1008.048706,Red,Spain
+Tempranillo,2007,1803.42875,1223.89856,Red,Spain
+Tempranillo,2008,3670.250048,1474.888428,Red,Spain
+Tempranillo,2009,2594.941438,1096.942871,Red,Spain
+Tempranillo,2010,2655.399987,1662.118286,Red,Spain
+Tempranillo,2011,2284.648646,1168.120117,Red,Spain
+Tempranillo,2012,3063.770005,1210.333008,Red,Spain
+Tempranillo,2013,3503.62935,931.800415,Red,Spain
+Tempranillo,2014,3154.097389,908.3620605,Red,Spain
+Tempranillo,2015,4080.904006,1038.723633,Red,Spain
+Tempranillo,2016,6557.516008,887.4043579,Red,Spain
+Tempranillo,2017,5139.250973,969.2596436,Red,Spain
+Tempranillo,2018,4568.82697,1168.171875,Red,Spain
+Tempranillo,2019,5399.996995,1312.8479,Red,Spain
+Tempranillo,2020,4292.12701,1186.739624,Red,Spain
+Tempranillo,2021,5238.769043,1316.771484,Red,Spain
+Tempranillo,2022,4356.911998,1146.848145,Red,Spain
+Tempranillo,2023,3089.343,1320.538696,Red,Spain
+Trebbiano Toscano,2001,7238.700106,624.3668823,White,Italy
+Trebbiano Toscano,2002,7340.559841,548.9760742,White,Italy
+Trebbiano Toscano,2003,6078.500096,534.4316406,White,Italy
+Trebbiano Toscano,2004,6339.316054,559.720459,White,Italy
+Trebbiano Toscano,2005,5332.3002,534.6708374,White,Italy
+Trebbiano Toscano,2006,4079.699901,443.8588867,White,Italy
+Trebbiano Toscano,2007,2544.685869,424.524231,White,Italy
+Trebbiano Toscano,2008,2739.450097,501.3603516,White,Italy
+Trebbiano Toscano,2009,1961.10038,286.1915588,White,Italy
+Trebbiano Toscano,2010,840.9999739,407.5198364,White,Italy
+Trebbiano Toscano,2011,431.1814795,357.8414001,White,Italy
+Trebbiano Toscano,2012,0,0,White,Italy
+Trebbiano Toscano,2013,349.4531841,336.3945007,White,Italy
+Trebbiano Toscano,2014,362.8352966,256.4385376,White,Italy
+Trebbiano Toscano,2015,373.1649904,250.8402863,White,Italy
+Trebbiano Toscano,2016,324.2649918,312.3724365,White,Italy
+Trebbiano Toscano,2017,290.0089951,313.5276794,White,Italy
+Trebbiano Toscano,2018,349.0970039,324.9909668,White,Italy
+Trebbiano Toscano,2019,296.5670079,366.0005798,White,Italy
+Trebbiano Toscano,2020,267.0259903,391.3108521,White,Italy
+Trebbiano Toscano,2021,265.0600053,378.6604614,White,Italy
+Trebbiano Toscano,2022,0,0,White,Italy
+Trebbiano Toscano,2023,185.216,,White,Italy
+Verdelho,2001,12495.39992,1549.809204,White,Portugal
+Verdelho,2002,16064.26977,1137.09021,White,Portugal
+Verdelho,2003,15426.40014,1129.772705,White,Portugal
+Verdelho,2004,18820.43041,1046.522705,White,Portugal
+Verdelho,2005,18390.69992,1055.132935,White,Portugal
+Verdelho,2006,19925.50023,896.6223755,White,Portugal
+Verdelho,2007,14893.33538,974.3129272,White,Portugal
+Verdelho,2008,20995.60015,993.0884399,White,Portugal
+Verdelho,2009,16457.1477,771.015564,White,Portugal
+Verdelho,2010,13524.79985,549.0336914,White,Portugal
+Verdelho,2011,12144.19937,534.5343018,White,Portugal
+Verdelho,2012,10438.82999,578.8641357,White,Portugal
+Verdelho,2013,8761.874128,599.3577271,White,Portugal
+Verdelho,2014,7660.68022,528.8722534,White,Portugal
+Verdelho,2015,11094.27724,451.6911316,White,Portugal
+Verdelho,2016,9526.016046,412.6622314,White,Portugal
+Verdelho,2017,6806.250037,468.9943848,White,Portugal
+Verdelho,2018,7587.917105,518.1230469,White,Portugal
+Verdelho,2019,7333.966057,523.3321533,White,Portugal
+Verdelho,2020,5675.255969,541.0338135,White,Portugal
+Verdelho,2021,6030.233926,575.3369141,White,Portugal
+Verdelho,2022,6890.786033,560.0264282,White,Portugal
+Verdelho,2023,4398.516,568.442688,White,Portugal
+Vermentino,2001,0,0,White,Italy
+Vermentino,2002,0,0,White,Italy
+Vermentino,2003,0,0,White,Italy
+Vermentino,2004,0,0,White,Italy
+Vermentino,2005,0,0,White,Italy
+Vermentino,2006,0,0,White,Italy
+Vermentino,2007,0,0,White,Italy
+Vermentino,2008,0,0,White,Italy
+Vermentino,2009,61.42642021,1754.018433,White,Italy
+Vermentino,2010,0,0,White,Italy
+Vermentino,2011,52.98656273,1017.414429,White,Italy
+Vermentino,2012,349.9100017,705.7868652,White,Italy
+Vermentino,2013,915.7361944,768.1570435,White,Italy
+Vermentino,2014,1273.531927,504.9713135,White,Italy
+Vermentino,2015,1044.71499,409.1358948,White,Italy
+Vermentino,2016,1181.888992,625.7516479,White,Italy
+Vermentino,2017,2358.493008,592.5586548,White,Italy
+Vermentino,2018,1666.279989,701.6670532,White,Italy
+Vermentino,2019,1779.511992,603.2453003,White,Italy
+Vermentino,2020,1430.165984,832.7805786,White,Italy
+Vermentino,2021,1764.372994,881.092041,White,Italy
+Vermentino,2022,1479.765006,886.5601196,White,Italy
+Vermentino,2023,1413.257,774.5645752,White,Italy
+Viognier,2001,615.200003,3103.22168,White,France
+Viognier,2002,1225.500001,2300.5,White,France
+Viognier,2003,1795.700001,2153.932861,White,France
+Viognier,2004,3935.988941,2120.115723,White,France
+Viognier,2005,5482.799993,2034.054199,White,France
+Viognier,2006,6551.299984,1633.525146,White,France
+Viognier,2007,8550.55053,1178.973267,White,France
+Viognier,2008,12805.47004,1416.117676,White,France
+Viognier,2009,12366.60481,873.6933594,White,France
+Viognier,2010,11945.49996,707.8771362,White,France
+Viognier,2011,9284.538572,576.831665,White,France
+Viognier,2012,9002.600099,627.6514282,White,France
+Viognier,2013,10718.80512,555.3598022,White,France
+Viognier,2014,8215.642818,565.2272949,White,France
+Viognier,2015,6590.99999,555.1040039,White,France
+Viognier,2016,7073.603088,650.1793823,White,France
+Viognier,2017,6099.999001,618.4971924,White,France
+Viognier,2018,5663.377942,665.6116943,White,France
+Viognier,2019,5802.629972,603.4853516,White,France
+Viognier,2020,4999.124031,646.3338013,White,France
+Viognier,2021,5593.850987,677.9272461,White,France
+Viognier,2022,5249.080876,645.5265503,White,France
+Viognier,2023,4197.114,680.9453125,White,France
